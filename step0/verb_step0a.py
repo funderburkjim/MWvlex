@@ -1,6 +1,7 @@
 """ verb_step0a.py Oct, 2014
+ Begun Oct 25, 2014
  Construct verb_step0a.txt from mw.xml
- 
+ Oct 30, 2014  Add 'X' code for '<vlex type="nhw">' pattern
 """
 import sys, re,codecs
 import collections
@@ -41,7 +42,8 @@ def verb_step0a(filein,fileout):
    key2=m.group(1)
   else:
    key2=''
-  m = re.search(r'<vlex type="preverb"></vlex>',line)
+  #m = re.search(r'<vlex type="preverb"></vlex>',line)
+  m = re.search(r'<vlex type="preverb">',line) # Oct 29, 2014
   if m:
    codes.append('P')
   m = re.search(r'<vlex type="root"></vlex>',line)
@@ -50,6 +52,10 @@ def verb_step0a(filein,fileout):
   m = re.search(r'<vlex>Nom[.]</vlex>',line)
   if m:
    codes.append('N')
+  m = re.search(r'<vlex type="nhw">',line)
+  if m:  # vlex occurs in context of another word, not the current headword
+   codes.append('X')
+  # Catch other '<vlex' cases
   if len(codes) == 0:
    m = re.search(r'<vlex',line)
    if m:
@@ -91,5 +97,5 @@ def verb_step0a(filein,fileout):
   print code,c.d[code]
 if __name__=="__main__": 
  filein = sys.argv[1] # mw.xml
- fileout = sys.argv[3] # verb-prep4.txt
+ fileout = sys.argv[2] # verb-prep4.txt
  verb_step0a(filein,fileout)

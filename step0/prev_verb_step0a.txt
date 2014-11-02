@@ -1067,6 +1067,7 @@ aBijuz:11406:<H1>:K:<key2>aBi-<root>juz</root></key2>:
 aBijfmB:11408:<H1>:K:<key2>aBi-<root>jfmB</root></key2>:
 aBijYA:11409:<H1>:K:<key2>aBi-<root>jYA</root></key2>:
 aBijYa:11413.2:<H2B>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
+aBijYu:11426:<H1>:K:<key2>aBi-<root>jYu/</root></key2>:
 aBijval:11427:<H1>:K:<key2>aBi-<root>jval</root></key2>:
 aBitaMs:11429:<H1>:K:<key2>aBi-<root>taMs</root></key2>:
 aBitaq:11430:<H1>:K:<key2>aBi-<root>taq</root></key2>:

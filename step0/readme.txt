@@ -88,7 +88,7 @@ After the above changes, regenerate verb_step0a.txt.
 
 10415  records written to  verb_step0a.txt
 X 96  
-K 6396
+K 6396 
 N 1215
 P 620
 V 2088
@@ -169,3 +169,4 @@ barhAyita:142985:<H2>:O::<vlex type="nhw">Nom.</vlex>
 7. From a verb
 - from vid  jAtavedas:78614:<H3>:O::<vlex type="nhw">cl._6</vlex> <vlex type="nhw">cl.2.</vlex>
 
+See readme_compare.txt for the next step.

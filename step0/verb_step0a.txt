@@ -3306,6 +3306,8 @@ OrvAya:41236:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 OzaDIkf:41299:<H2>:K:<key2>OzaDI-<root>kf</root></key2>:
 kaMs:41369:<H1>:V::<vlex type="root"></vlex> <vlex>cl.2 A1.</vlex>
 kak:41405:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
+kakk:41500:<H1>:V::<vlex type="root"></vlex>
+kakK:41510:<H1>:V::<vlex type="root"></vlex>
 kakzAya:41568:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 kakzIkf:41574:<H3>:K:<key2>kakzI--<root>kf</root></key2>:
 kaK:41598:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
@@ -3493,6 +3495,7 @@ kumB:52478:<H1>:V::<vlex type="root"></vlex>
 kur:52645:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
 kuraNgAya:52667:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 kurkurIya:52795:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
+kurd:52799:<H1>:V::<vlex type="root"></vlex>
 kurvat:52803:<H1>:X::<vlex type="nhw">P.</vlex>
 kurvARa:52807:<H2>:X::<vlex type="nhw">A1.</vlex>
 kul:52809:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
@@ -3603,12 +3606,14 @@ krIqArudrAya:58189:<H3>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 kruYc:58218:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 kruq:58229:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex> <vlex>cl.10 P.</vlex>
 kruD:58231:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4 P.</vlex> <vlex>A1.</vlex>
+krunT:58295:<H1>:V::<vlex type="root"></vlex>
 kruS:58298:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex>
 krUrIkf:58408:<H2>:K:<key2>krUrI/-<root>kf</root></key2>:
 kroYc:58417.1:<H1>:V::<vlex type="root"></vlex> <vlex>P.</vlex>
 kroqIkf:58460:<H3>:K:<key2>kroqI--<root>kf</root></key2>:
 klaT:58538:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 kland:58542:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex>
+klap:58543.1:<H2>:V::<vlex type="root"></vlex>
 klam:58545:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.4.</vlex>
 klav:58562:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 klid:58564:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex>
@@ -3616,10 +3621,12 @@ klind:58598:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex>
 kliS:58603:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9 P.</vlex> <vlex>cl.4 P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>P.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
 klIb:58650:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>cl.10 A1.</vlex>
 klIbAya:58665:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
+klIv:58670:<H1>:V::<vlex type="root"></vlex>
 klu:58671:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 kleS:58673:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 kvaR:58692:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>P.</vlex>
 kvaT:58702:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
+kvel:58728:<H1>:V::<vlex type="root"></vlex>
 kSA:58729:<H1>:V::<vlex type="root"></vlex> <vlex>A1.</vlex>
 kzaj:58737:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>cl.10 P.</vlex>
 kzaR:58738:<H1>:V::<vlex type="root"></vlex>
@@ -3720,6 +3727,7 @@ Kud:61977:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
 Kur:61981:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
 KuruKurAya:62003:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 Kurd:62011:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
+KUrd:62018:<H1>:V::<vlex type="root"></vlex>
 Kew:62022:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10.</vlex>
 Keq:62044:<H1>:V::<vlex type="root"></vlex>
 Kel:62053:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>P.</vlex>
@@ -3731,6 +3739,7 @@ Koq:62089:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.10 P.<
 Kor:62093:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 Kol:62098:<H1>:V::<vlex type="root"></vlex>
 KyA:62110:<H1>:V::<vlex type="root"></vlex> <vlex>cl.2 P.</vlex> <vlex>A1.</vlex>
+gagG:62214:<H1>:V::<vlex type="root"></vlex>
 gaNgUya:62299:<H1>:V::<vlex type="root"></vlex> <vlex>P.</vlex>
 gacCat:62304:<H2>:X::<vlex type="nhw">P.</vlex>
 gaj:62305:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.10 P.</vlex>
@@ -3761,6 +3770,7 @@ gal:64241:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 galahastaya:64268:<H3>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 galB:64303:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 galBAya:64305:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
+galh:64317:<H1>:V::<vlex type="root"></vlex>
 gavez:64327:<H3>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>cl.10.</vlex>
 gavaya:64387:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 gavya:64415:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
@@ -3790,6 +3800,7 @@ guRW:65822:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 P.</vlex>
 guRq:65827:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10.</vlex>
 gud:65859:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 guD:65883:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4 P.</vlex> <vlex>cl.9 P.</vlex> <vlex>cl.1 A1.</vlex>
+gundr:65888:<H1>:V::<vlex type="root"></vlex>
 gup:65898:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4 P.</vlex> <vlex>A1.</vlex>
 gup:65899:<H1>:V::<vlex type="root"></vlex> <vlex>A1.</vlex> <vlex>P.</vlex>
 guptIkf:65958:<H2>:K:<key2>guptI-<root>kf</root></key2>:
@@ -3802,6 +3813,7 @@ gUrd:66184.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex> <vlex>cl.10.</
 gurv:66185:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 guluguDAkf:66207:<H3>:K:<key2>guluguDA--<root>kf</root></key2>:
 guh:66258:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
+gU:66386:<H1>:V::<vlex type="root"></vlex>
 gUr:66396:<H1>:V::<vlex type="root"></vlex>
 gUrd:66402:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 gUrD:66407:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 P.</vlex>
@@ -3858,6 +3870,7 @@ glOas:69198:<H3>:K:<key2>glO--<root>as</root></key2>:
 glOkf:69199:<H3>:K:<key2>glO--<root>kf</root></key2>:
 glOBU:69200:<H3>:K:<key2>glO--<root>BU</root></key2>:
 GaMz:69215:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
+GaMs:69216:<H1>:V::<vlex type="root"></vlex>
 GagG:69217:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 GaG:69217.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 GaG:69218:<H1>:V::<vlex type="root"></vlex>
@@ -3977,7 +3990,9 @@ cil:74354:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6.</vlex>
 cill:74368:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
 cihnaya:74408:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 cIk:74413:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.10.</vlex>
+cIb:74452:<H1>:V::<vlex type="root"></vlex>
 cIB:74453:<H1>:V::<vlex type="root"></vlex>
+cIy:74454:<H1>:V::<vlex type="root"></vlex>
 cIv:74506:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex> <vlex>cl.10.</vlex>
 cIvaraya:74514:<H2>:N::<vlex>Nom.</vlex>
 cukk:74519:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10.</vlex>
@@ -4001,6 +4016,7 @@ curaRya:74648:<H2>:N::<vlex>Nom.</vlex>
 cul:74681:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10.</vlex>
 culukIkf:74692:<H3>:K:<key2>culukI-<root>kf</root></key2>:
 culump:74694:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
+cull:74699:<H1>:V::<vlex type="root"></vlex>
 cUqaya:74743:<H2>:N::<vlex>Nom.</vlex>
 cUR:74789:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10.</vlex>
 cUr:74798:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4.</vlex> <vlex>cl.10.</vlex>
@@ -4011,6 +4027,7 @@ cft:74888:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6.</vlex> <vlex>cl.1.</vlex
 cfp:74889:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.10</vlex>
 cet:74904:<H1>:N::<vlex>Nom.</vlex>
 cel:74944:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
+cell:74969:<H1>:V::<vlex type="root"></vlex>
 cezw:74971:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
 cyu:75257:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10.</vlex>
 cyu:75258:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex>
@@ -4092,6 +4109,7 @@ jihmIBU:79486:<H3>:K:<key2>jihmI--<root>BU</root></key2>:
 jIv:79622:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex>
 jIvantiSUlAMkf:79892:<H3>:K:<key2>jIvanti--SUlAM---<root>kf</root></key2>:
 jIvikAkf:79908:<H3>:K:<key2>jIvikA--<root>kf</root></key2>:
+ju:79968:<H1>:V::<vlex type="root"></vlex>
 juNg:79988:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
 juYc:79993:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.10.</vlex> <vlex>P.</vlex>
 juw:79994:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6.</vlex>
@@ -4130,6 +4148,7 @@ jyo:80838:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 jyokkf:80840:<H3>:K:<key2>jyo/k--<root>kf</root></key2>:
 jri:80851:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 jri:80856:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.9.10.</vlex>
+jrI:80856.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.9.10.</vlex>
 jvar:80857:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
 jval:80890:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex>
 JagaJagAya:80963:<H1>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
@@ -4160,6 +4179,7 @@ qamb:81348:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10.</vlex>
 qamB:81357:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 A1.</vlex>
 qip:81417:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 A1.</vlex> <vlex>cl.4.6.10.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
 qimp:81417.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 A1.</vlex> <vlex>cl.4.6.10.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
+qimB:81428:<H1>:V::<vlex type="root"></vlex>
 qI:81442:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.4.</vlex> <vlex>A1.</vlex>
 QOk:81523:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 taMs:81566:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1. P.</vlex> <vlex>A1.</vlex> <vlex>cl.10.</vlex>
@@ -4314,6 +4334,9 @@ triSUlAya:88396:<H4>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 triNK:88598:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 truw:88608:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6.4.</vlex> <vlex>A1.</vlex>
 trup:88626:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
+truP:88627:<H1>:V::<vlex type="root"></vlex>
+trump:88628:<H1>:V::<vlex type="root"></vlex>
+trumP:88629:<H1>:V::<vlex type="root"></vlex>
 trE:88647:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 trOk:88806:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 tvadBU:88955:<H3>:K:<key2>tvad--<root>BU</root></key2>:
@@ -4343,7 +4366,6 @@ daNG:89568:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
 daRqaya:89752:<H2>:N::<vlex>Nom.</vlex>
 daRqAya:89753:<H2>:N::<vlex>Nom.</vlex>
 dad:89874:<H2>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
-dadfSAnapavu:89898:<H1>:P::<vlex type="preverb"><s><root>dfS</root></s></vlex>
 daD:89899:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
 daDisya:89979:<H2>:N::<vlex>Nom.</vlex>
 daDyasya:89980:<H3>:N::<vlex>Nom.</vlex>
@@ -4457,6 +4479,8 @@ dfP:95245.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
 dfp:95246:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4 P.</vlex>
 dfB:95254:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.10.</vlex> <vlex>P.</vlex>
 dfB:95255:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex> <vlex>P.</vlex>
+dfmp:95260:<H1>:V::<vlex type="root"></vlex>
+dfmP:95260.1:<H1>:V::<vlex type="root"></vlex>
 dfS:95263:<H1>:V::<vlex type="root"></vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P. A1.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex>
 dfkpaTami:95276:<H4>:K:<key2>dfk--pa<sr1/>Tam-<root>i</root></key2>:
 dfkpaTamgam:95276.1:<H4>:K:<key2>dfk--pa<sr1/>Tam-<root>gam</root></key2>:
@@ -4587,6 +4611,7 @@ DF:102002:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9 P.</vlex>
 De:102003:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 Dor:102087:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 DmA:102155:<H1>:V::<vlex type="root"></vlex> <vlex></vlex>
+DmANkz:102170:<H1>:V::<vlex type="root"></vlex>
 DyAmalIkf:102182:<H3>:K:<key2>DyAma<sr/>lI-<root>kf</root></key2>:
 DyE:102185:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.2.</vlex>
 Draj:102255:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex>
@@ -4596,6 +4621,7 @@ Dras:102266:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9.10.</vlex> <vlex>P.</vl
 DrA:102267:<H1>:V::<vlex type="root"></vlex> <vlex>cl.2.1.</vlex> <vlex>P.</vlex>
 DrAK:102270:<H1>:V::<vlex type="root"></vlex>
 DrAG:102271:<H1>:V::<vlex type="root"></vlex>
+DrANkz:102272:<H1>:V::<vlex type="root"></vlex>
 DrAq:102273:<H1>:V::<vlex type="root"></vlex>
 Drij:102278:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 Dru:102279:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex> <vlex>cl.1 P.</vlex>
@@ -4640,6 +4666,7 @@ nal:104379:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.10 P.
 navanalinadalAya:104510:<H3>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 navIBU:104586:<H3>:K:<key2>navI--<root>BU</root></key2>:
 naS:104757:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex> <vlex>A1.</vlex>
+naMS:104757.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex> <vlex>A1.</vlex>
 naSAya:104759:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 naS:104760:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4 P.</vlex> <vlex>cl.1.P.</vlex>
 nazwapizwIkf:104794:<H4>:K:<key2>nazwa/--piz<sr1/>wI-<root>kf</root></key2>:
@@ -4765,6 +4792,7 @@ nituS:108331:<H1>:K:<key2>ni-<root>tuS<hom>1</hom></root></key2>:<vlex>A1.</vlex
 nitfd:108333:<H1>:K:<key2>ni-<root>tfd</root></key2>:<vlex>P. A1.</vlex>
 nitfp:108334:<H1>:K:<key2>ni-<root>tfp</root></key2>:<vlex>P.</vlex>
 nitF:108335:<H1>:K:<key2>ni-<root>tF</root></key2>:
+nid:108451:<H1>:V::<vlex type="root"></vlex>
 nidah:108463:<H1>:K:<key2>ni-<root>dah</root></key2>:<vlex>P.</vlex>
 nidA:108476:<H1>:K:<key2>ni-<root>dA<hom>4</hom></root></key2>:<vlex>P.</vlex>
 nidiS:108505:<H1>:K:<key2>ni-<root>diS</root></key2>:<vlex>P.</vlex>
@@ -5092,7 +5120,7 @@ nIlAya:111720:<H2>:N::<vlex>Nom.</vlex> <vlex>P. A1.</vlex>
 nIv:111741:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 nu:111761:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 nu:111762:<H1>:V::<vlex type="root"></vlex> <vlex>cl.2.6.</vlex> <vlex>P.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
-nU:111762.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.2.6.</vlex> <vlex>P.</vlex>
+nU:111762.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.2.6.</vlex> <vlex>P.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
 nuq:111771:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
 nud:111772:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P. A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
 nUtanaya:111797:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
@@ -6851,7 +6879,7 @@ prollas:141300:<H1>:K:<key2>pro<srs/>l-<root>las</root></key2>:<vlex>P.</vlex>
 prolliK:141304:<H1>:K:<key2>pro<srs/>l-<root>liK</root></key2>:<vlex>P.</vlex>
 proh:141332:<H1>:P::<vlex type="preverb"><s>pra-</s> <hom>1</hom> <s><root>Uh</root></s></vlex> <vlex>P.</vlex>
 prOGIya:141344:<H1>:N::<vlex>Nom.</vlex>
-prODIBU:141394:<H2>:K:<key2>prO<srs1/>DI-<root>BU</root></key2>:<vlex>P.</vlex>
+prOQIBU:141394:<H2>:K:<key2>prO<srs1/>QI-<root>BU</root></key2>:<vlex>P.</vlex>
 plakz:141399:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex>
 plakzar:141436:<H1>:K:<key2>pla-<root>kzar</root></key2>:
 plab:141439:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
@@ -6886,6 +6914,7 @@ bakabakAya:142347:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 bakAya:142349:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 bad:142418:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 band:142418.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+baD:142478:<H1>:V::<vlex type="root"></vlex>
 banD:142512:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9 P.</vlex> <vlex>A1.</vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex> <vlex>cl.4 P.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex>
 baDiraya:142626:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 baDirIkf:142629:<H2>:K:<key2>baDirI-<root>kf</root></key2>:<vlex>P.</vlex>
@@ -6942,6 +6971,7 @@ bfh:146037:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 bfMh:146037.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 bfh:146435:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex> <vlex>cl.10 P.</vlex>
 bfMh:146435.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex> <vlex>cl.10 P.</vlex>
+bF:146438:<H1>:V::<vlex type="root"></vlex>
 beS:146448:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 byus:146528:<H1>:V::<vlex type="root"></vlex>
 braR:146529:<H1>:V::<vlex type="root"></vlex>
@@ -6992,6 +7022,7 @@ BAsAya:150625:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 Bikz:150663:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1. A1.</vlex> <vlex>P.</vlex>
 Bikzya:150723:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 Bid:150727:<H1>:V::<vlex type="root"></vlex> <vlex>cl.7.</vlex> <vlex>P. A1.</vlex> <vlex>cl.1. P.</vlex>
+Bil:150910:<H1>:V::<vlex type="root"></vlex>
 Bizaj:150928:<H1>:V::<vlex type="root"></vlex>
 Bizajya:150953:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 BizRajya:150958:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
@@ -7208,6 +7239,7 @@ miz:164547:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
 miz:164551:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 mizamizAya:164552:<H1>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 mis:164568:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4 P.</vlex>
+misr:164575:<H1>:V::<vlex type="root"></vlex>
 mih:164576:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex>
 mI:164607:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9 P. A1.</vlex>
 mI:164610:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.10.</vlex> <vlex>P.</vlex>
@@ -7245,6 +7277,7 @@ mUrC:165763.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 mUrKIBU:165781:<H2>:K:<key2>mUrKI-<root>BU</root></key2>:<vlex>P.</vlex>
 murmurIya:165851:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 murv:165852:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+mul:165853:<H1>:V::<vlex type="root"></vlex>
 muz:165858:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 muz:165859:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9.1.</vlex> <vlex>P.</vlex> <vlex>cl.6 P.</vlex>
 muzAya:165864:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
@@ -7286,6 +7319,7 @@ meT:167781:<H1>:V::<vlex type="root"></vlex>
 med:167792:<H1>:V::<vlex type="root"></vlex>
 meD:167870:<H1>:V::<vlex type="root"></vlex>
 mep:167980:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+meb:167981:<H1>:V::<vlex type="root"></vlex>
 melAnandAya:168054:<H4>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 mev:168064:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 mezAya:168105:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
@@ -7309,6 +7343,7 @@ mluc:168901:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 mluYc:168903:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 mleC:168905:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.10 P.</vlex>
 mlew:168936:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+mleq:168936.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 mlev:168937:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 mlE:168938:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 yakz:169014:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex> <vlex>cl.10 A1.</vlex>
@@ -7425,6 +7460,7 @@ rAjAya:176861:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 rAjIya:176867:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 rAjyalIlA:176912:<H4>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 rAD:177153:<H1>:V::<vlex type="root"></vlex> <vlex>cl.5.4.</vlex> <vlex>P.</vlex>
+rAS:177749:<H1>:V::<vlex type="root"></vlex>
 rASIkf:177780:<H3>:K:<key2>rASI--<root>kf</root></key2>:<vlex>P. A1.</vlex>
 rASIBU:177782:<H3>:K:<key2>rASI--<root>BU</root></key2>:<vlex>P.</vlex>
 rAs:177844:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
@@ -7564,6 +7600,7 @@ lI:182753:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9 P.</vlex> <vlex>cl.1 P.</
 lInaya:182801:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 lIlAya:182874:<H2>:N::<vlex>Nom.</vlex> <vlex>P. A1.</vlex>
 luYc:182888:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+luYj:182900:<H1>:V::<vlex type="root"></vlex>
 luw:182901:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>cl.10 P.</vlex>
 luw:182902:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.4.</vlex> <vlex>P.</vlex> <vlex>cl.1 A1.</vlex> <vlex>cl.10 P.</vlex>
 luW:182907:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1. P.</vlex> <vlex>cl.1. A1.</vlex> <vlex>cl.10 P.</vlex>
@@ -7624,6 +7661,7 @@ vaYc:185127:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>P.</vle
 vaw:185175:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.10 P.</vlex>
 vaww:185252:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 vaW:185255:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+baW:185255.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 vaqQ:185298:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 vaR:185300:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 baR:185300.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
@@ -7647,6 +7685,7 @@ vap:186277:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex> <vlex>A1.<
 vap:186291:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex>
 vapuzya:186359:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 vaBr:186415:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+baBr:186415.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 vam:186417:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 vay:186460:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>cl.1 P.</vlex>
 varaRya:186609:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
@@ -7713,6 +7752,7 @@ vAjIkf:190454:<H3>:K:<key2>vAjI--<root>kf</root></key2>:<vlex>P.</vlex>
 vAYC:190461:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 vAq:190529:<H1>:V::<vlex type="root"></vlex>
 vAt:190607:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 P.</vlex>
+vAD:190802:<H1>:V::<vlex type="root"></vlex>
 vAntIkf:190922:<H3>:K:<key2>vAntI--<root>kf</root></key2>:<vlex>P.</vlex>
 vApyAya:190964:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 vAmIkf:191092:<H2>:K:<key2>vAmI-<root>kf</root></key2>:<vlex>P.</vlex>
@@ -7859,6 +7899,7 @@ vitt:195602:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 P.</vlex>
 vitras:195605:<H1>:K:<key2>vi-<root>tras</root></key2>:<vlex>P.</vlex>
 vitruq:195616:<H1>:K:<key2>vi-<root>truq</root></key2>:<vlex>P.</vlex>
 viT:195619:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
+veT:195619.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 viTurya:195623:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 vid:195626:<H1>:V::<vlex type="root"></vlex> <vlex>cl.2 P.</vlex>
 vidyADarIBU:195748:<H4>:K:<key2>vidyA/--Da<sr1/>rI-<root>BU</root></key2>:
@@ -8312,6 +8353,7 @@ vIj:203453:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex> <vlex>A1.<
 vIq:203469:<H1>:V::<vlex type="root"></vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
 vIn:203548:<H1>:P::<vlex type="preverb"><s>vi-<root>in</root></s></vlex> <vlex>P.</vlex>
 vIps:203556:<H1>:V::<vlex type="root"></vlex> <vlex>P.</vlex>
+vIB:203561:<H1>:V::<vlex type="root"></vlex>
 vIr:203563:<H1>:P::<vlex type="preverb"><s>vi-<root>Ir</root></s></vlex>
 vIr:203564:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 A1.</vlex> <vlex type="hwalt">Nom.</vlex> <vlex>P.</vlex>
 vIrAya:203885:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
@@ -8319,6 +8361,7 @@ vIz:203961:<H1>:P::<vlex type="preverb"><s>vi-<root>Iz</root></s></vlex> <vlex>P
 vIz:203963:<H1>:P::<vlex type="preverb"><s>vi-</s> <hom>3</hom> <s><root>iz</root></s></vlex> <vlex>P.</vlex>
 vuNg:203969:<H1>:V::<vlex type="root"></vlex>
 vuRw:203972:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 P.</vlex>
+vunD:203973:<H1>:V::<vlex type="root"></vlex>
 vf:203978:<H1>:V::<vlex type="root"></vlex> <vlex>cl.5.9.1.</vlex> <vlex>P. A1.</vlex> <vlex>cl.5.</vlex> <vlex>cl.9.</vlex> <vlex>cl.1.</vlex> <vlex>A1.</vlex>
 vftrahAya:204037:<H3>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 vf:204040:<H1>:V::<vlex type="root"></vlex> <vlex>cl.5.9. P. A1.</vlex>
@@ -8613,10 +8656,12 @@ vraSc:210711:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
 vrAD:210761:<H1>:V::<vlex type="root"></vlex>
 vrI:210763:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9 P.</vlex> <vlex>cl.4 A1.</vlex>
 vrIq:210765:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>cl.4. P.</vlex> <vlex>cl.4. P.</vlex> <vlex>cl.10 P.</vlex>
+vrIs:210779:<H1>:V::<vlex type="root"></vlex>
 vruq:210816:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
 vrUs:210819:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.10.</vlex> <vlex>P.</vlex>
 vlI:210822:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9. P.</vlex>
 blI:210822.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9. P.</vlex>
+vlekz:210826:<H1>:V::<vlex type="root"></vlex>
 SaMs:210841:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex>
 Sak:210897:<H1>:V::<vlex type="root"></vlex> <vlex>cl.5 P.</vlex>
 SakracApAya:211063.1:<H4>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
@@ -8679,6 +8724,8 @@ SAK:214945:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 SAq:215105:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 SAn:215256:<H1>:V::<vlex type="root"></vlex> <vlex>A1.</vlex>
 SAntaya:215337:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
+SAntv:215471:<H1>:V::<vlex type="root"></vlex>
+SAr:215656:<H1>:V::<vlex type="root"></vlex>
 SAl:215926:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>cl.1.10.</vlex> <vlex>A1.</vlex>
 SAlaBaYjikAya:215969:<H4>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 SAlInIkf:216060:<H3>:K:<key2>SAlInI--<root>kf</root></key2>:<vlex>P.</vlex>
@@ -8789,6 +8836,7 @@ SoRAya:221478:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 SoRIkf:221522:<H2>:K:<key2>SoRI-<root>kf</root></key2>:<vlex>P.</vlex>
 SoBAya:221655:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 SOw:221763:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+SOq:221773:<H1>:V::<vlex type="root"></vlex>
 Scar:221944:<H1>:V::<vlex type="root"></vlex> <vlex></vlex>
 Scut:221945:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 Scyut:221952:<H1>:V::<vlex type="root"></vlex>
@@ -8872,6 +8920,9 @@ SvetAtapatrAya:224801:<H4>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 Svetaya:224851:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 SvetAya:224853:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 Svind:224875:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
+zag:224899:<H1>:V::<vlex type="root"></vlex>
+zaG:224899.1:<H1>:V::<vlex type="root"></vlex>
+zac:224899.2:<H1>:V::<vlex type="root"></vlex>
 zaww:224902:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 P.</vlex>
 zaRQaya:224934:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 zaRQIya:224936:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
@@ -9144,6 +9195,7 @@ sajjIkf:229045:<H3>:K:<key2>sajjI--<root>kf</root></key2>:<vlex>P.</vlex>
 sajjIBU:229047:<H3>:K:<key2>sajjI--<root>BU</root></key2>:<vlex>P.</vlex>
 sajjIya:229049:<H2>:V::<vlex type="root"></vlex> <vlex>A1.</vlex>
 sajyIkf:229056:<H2>:K:<key2>sajyI-<root>kf</root></key2>:<vlex>P.</vlex>
+saYc:229058:<H1>:V::<vlex type="root"></vlex>
 saMcakAs:229063:<H1>:P::<vlex type="preverb"></vlex> <vlex>P.</vlex>
 saMcakz:229065:<H1>:K:<key2>saM-<root>cakz</root></key2>:<vlex>A1.</vlex>
 saMcar:229069:<H1>:K:<key2>saM-<root>car</root></key2>:<vlex>P.</vlex> <vlex>A1.</vlex>
@@ -10217,6 +10269,7 @@ snE:256486:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 spand:256488:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 sparD:256521:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>P.</vlex>
 spfD:256521.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>P.</vlex>
+sparS:256547:<H1>:V::<vlex type="root"></vlex>
 sparz:256549:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 spaS:256550:<H1>:V::<vlex type="root"></vlex>
 spazwaya:256571:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
@@ -10298,6 +10351,7 @@ svagAkf:258744:<H3>:K:<key2>svagA--<root>kf</root></key2>:<vlex>P.</vlex>
 svaNg:258748:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 svaj:258776:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 svaYj:258776.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
+svaW:258785:<H1>:V::<vlex type="root"></vlex>
 svad:258787:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>P.</vlex> <vlex>P.</vlex> <vlex>P. A1.</vlex>
 svAd:258787.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>P.</vlex> <vlex>P.</vlex> <vlex>P. A1.</vlex>
 svAdUkf:258874:<H2>:K:<key2>svAdU-<root>kf</root></key2>:<vlex>P.</vlex>
@@ -10311,13 +10365,16 @@ svar:259079:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 svaHkAmya:259081:<H3>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 svargaya:259238:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 svarRaKaRqAya:259297:<H3>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
+svart:259408:<H1>:V::<vlex type="root"></vlex>
 svard:259410:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 svalpaSilAya:259446:<H4>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 svalpIBU:259456:<H2>:K:<key2>svalpI-<root>BU</root></key2>:<vlex>P.</vlex>
+svask:259490:<H1>:V::<vlex type="root"></vlex>
 svAgatIkf:259592:<H2>:K:<key2>svAgatI-<root>kf</root></key2>:<vlex>P.</vlex>
 svASliz:259762:<H1>:K:<key2>sv-A-<root>Sliz</root></key2>:<vlex>P.</vlex>
 svid:259802:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
 svf:259868:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+svF:260011:<H1>:V::<vlex type="root"></vlex>
 haMsa:260193:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 haMsAya:260202:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 hakkaya:260214:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
@@ -10392,6 +10449,7 @@ hoQa:264479:<H2>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 hnu:264643:<H1>:V::<vlex type="root"></vlex> <vlex>cl.2 A1.</vlex>
 hmal:264650:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 hrag:264662:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+hrap:264680:<H1>:V::<vlex type="root"></vlex>
 hras:264681:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex> <vlex>P.</vlex>
 hrAd:264747:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 hriRIya:264768:<H1>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>

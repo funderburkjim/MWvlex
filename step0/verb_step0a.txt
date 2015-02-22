@@ -3683,6 +3683,7 @@ kzviq:60633:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>P.</vle
 kzviq:60652:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>cl.4 P.</vlex>
 kzvid:60655:<H1>:V::<vlex type="root"></vlex>
 kzvel:60659:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+KakK:60850:<H1>:V::<vlex type="root"></vlex>
 Kac:60863:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.9 P.</vlex> <vlex>cl.10 P.</vlex>
 Kaj:60867:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
 KaYj:60884:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>

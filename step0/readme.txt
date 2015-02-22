@@ -93,6 +93,15 @@ N 1215
 P 620
 V 2088
 
+NOTE Feb 21, 2014:  After adding some 'verb' markup, the statistics are:
+10473  records written to  verb_step0a.txt
+X 96
+K 6395
+N 1215
+P 619
+V 2148
+
+
 Note that all records belong to just one class.
 Those that are 'X' are NOT verbs, but the sense refers to some other verb.
 

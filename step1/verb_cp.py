@@ -74,7 +74,8 @@ class Vlex(object):
    # A1 is Anglicized Sanskrit for capitalized long vowel A, Atmanepada
    x = x.replace('A1','A')  
    x = x.replace('.',' ')
-   x = x.strip()
+   x = x.replace('_',' ') # Aug 30, 2016. for "BaRq" <vlex>cl.1._10. P.</vlex>
+   x = x.strip()   
    x = re.sub(r' +',' ',x)
    cps.append(x)
   cpstr = ' '.join(cps)

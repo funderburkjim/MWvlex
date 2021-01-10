@@ -1,7 +1,7 @@
 readme.org for MWvlex repository
 
 
-Oct 26, 2014.  
+Oct 26, 2014.
 
 ## step0: Extraction of raw verb information from MW records.
 
